@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "141788221804",
+    "firebase_url": "https://bestsoccertips-26c5a.firebaseio.com",
+    "project_id": "bestsoccertips-26c5a",
+    "storage_bucket": "bestsoccertips-26c5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141788221804:android:d0ed354cc3f2016b",
+        "android_client_info": {
+          "package_name": "com.example.murat.bestsoccertips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141788221804-91hhjko1mqql3lgi54j487bhtigiti4n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.murat.bestsoccertips",
+            "certificate_hash": "f4d06b7d5d842c8d0a541b0c35de60a2d7a32017"
+          }
+        },
+        {
+          "client_id": "141788221804-vtgqffbvt04ltgb7eerskoimf73gb4js.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.murat.bestsoccertips",
+            "certificate_hash": "e305edc498785ecfe52a307f6c4f7015d19f7ca1"
+          }
+        },
+        {
+          "client_id": "141788221804-5lsfu7lfpu0mi3iaammhmiq3utk8sghj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqV3Dgrt_IXnqcpnw0aFGd_Is-0b_0Rf4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141788221804-5lsfu7lfpu0mi3iaammhmiq3utk8sghj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
